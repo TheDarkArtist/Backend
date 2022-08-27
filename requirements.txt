@@ -1,5 +1,5 @@
 asgiref==3.5.2
-astropy==5.1
+astropy
 astroquery==0.4.6
 attrs==22.1.0
 beautifulsoup4==4.11.1
@@ -20,9 +20,9 @@ jeepney==0.8.0
 jplephem==2.17
 keyring==23.8.2
 kiwisolver==1.4.4
-llvmlite==0.39.0
+llvmlite
 matplotlib==3.5.3
-numba==0.56.0
+numba
 numpy==1.22.4
 packaging==21.3
 pandas==1.4.3
